@@ -31,7 +31,7 @@ git commit -m 'feat(base scan)💯
 git commit -m 'feat(base scan)👍
 git commit -m 'feat(base scan)🥇
 git commit -m 'feat(base scan)🕝
-git commit -m 'feat(base scan)🕧
+git commit -m 'feat(base scn)🕧
 git commit -m 'feat(base scan)🔢
 git commit -m 'feat(base scan)🕠
 git commit -m 'feat(base scan)🕘
